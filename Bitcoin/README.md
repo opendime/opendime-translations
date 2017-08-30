@@ -1,4 +1,4 @@
-# Opendime Translations
+# Opendime Translations for Bitcoin Version
 
 ```
 ├── de.po
