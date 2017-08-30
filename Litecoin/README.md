@@ -1,4 +1,4 @@
-# Opendime Translations
+# Opendime Translations for Litecoin Version
 
 ```
 ├── de.po
