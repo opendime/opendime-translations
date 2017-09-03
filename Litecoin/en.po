@@ -106,7 +106,7 @@ msgid ""
 " for import/sweep into any Litecoin wallet.\n"
 "  You can read more about importing private keys on\n"
 "  \n"
-"<a href=\"https://en.bitcoin.it/wiki/How_to_import_private_keys\">the Litecoin Wiki.</a>"
+"<a href=\"https://litecoin.info/How_to_import_private_keys\">the Litecoin Wiki.</a>"
 msgstr ""
 
 msgctxt "btc-addr"
