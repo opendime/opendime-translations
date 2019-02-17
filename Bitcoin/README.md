@@ -7,8 +7,9 @@
 ├── ja.po
 ├── pt.po
 ├── ru.po
-└── zh.po
-└── it.po
+├── zh.po
+├── it.po
+└── bg.po
 ```
 
 To see what these look like in the final product, download one of
